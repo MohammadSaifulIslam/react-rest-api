@@ -1,0 +1,8 @@
+.container{
+    background-color: coral;
+    color: white;
+    width: 75%;
+    margin: 24px auto;
+    padding: 24px;
+    border-radius: 20px;
+}
